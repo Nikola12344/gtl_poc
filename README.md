@@ -8,7 +8,7 @@ We propose a new approach called Guided Transfer Learning, which involves assign
 git clone https://github.com/RobotsGoMental/gtl_poc.git
 cd gtl_poc
 ```
-2. Create a new virtual environment with Python 3.9 using the following command
+2. Create a new virtual environment with Python 3.9 using the following command:
 ```bash
 python3.9 -m venv venv
 ```
@@ -16,12 +16,12 @@ python3.9 -m venv venv
 ```bash
 source venv/bin/activate
 ``` 
-4. Install the required packages using the following command
+4. Install the required packages using the following command:
 ```bash
 pip install -r requirements.txt
 ``` 
 # Usage
-1. Navigate to the right directory 
+1. Navigate to the right directory: 
 ```bash
 cd gtl_poc
 ```
